@@ -35,7 +35,6 @@ body {
     color:#4a392e;
     justify-content: center;    
     align-items: center;    
-
 }
  /*Styling header and nav bar*/
 header {
@@ -49,8 +48,8 @@ header {
 }
  /*Max-width and max height set to container size for responsive design*/
 .logo > img {
-   max-width: 10dvh;
-   max-height: 10dvh;
+   max-width: 20dvh;
+   max-height: 20dvh;
 }
 
 nav {
@@ -83,15 +82,40 @@ main {
 
 }
 
+main > * {
+    margin: 0.5em;
+}
 
+.container {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    margin-top: 0;
+    padding-bottom: 0.5em;  
+
+}
+
+h2 {
+    padding-bottom: 1em;
+
+}
 
 .profilepicture > img {
     height:40dvh;
     width: 40dvh;
-
+     border-radius: 1em;     
     object-fit: cover;
-    border-radius: 1em;
-    justify-content: center;    
+     justify-content: center
+      
+        
+}
+
+h3 {
+    padding-top: 1em;
 }
 
 footer {
