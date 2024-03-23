@@ -115,35 +115,32 @@ h2 {
     width: 40dvh;
      border-radius: 1em;     
     object-fit: cover;
-     justify-content: center
-      
+     justify-content: center     
         
 }
 
 h3 {
     padding-top: 1em;
+   padding-bottom: 1em; 
     font-family: "Cardo"; 
 }
 
-.button {
+.my-button {
     background-color: #ae9c54;
-    color: #e9deb0;
-    border: #8c7442;
-    border-radius: 0.5em;
-    width: fit-content;
     box-shadow: #8c7442;
-    padding: 10px;
-    min-height: 2dvh;
-    min-width: 4dvh;
-    position: relative;
-
+    color: #e9deb0;
+    font-family: "Inter";
+    border-radius: 0.5em;
+    padding: 1dvh;
 }
 
-.button:hover {
-    
-    
-
+.my-button:hover {
+    background-color: #4a392e;  
+   
 }
+
+
+
 
 footer {
     height: 4dvh;
@@ -153,7 +150,6 @@ footer {
     justify-content: center;
     align-items: center;
     font-size: smaller;
-
 }
 
 /* Desktop view styling. Body change to row*/
