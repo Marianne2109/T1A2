@@ -1,0 +1,162 @@
+
+
+/*Import google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap&family=Cardo:ital,wght@0,400;0,700;1,400&family=Inter:slnt,wght@-10..0,100..900&display=swap');
+
+
+/* CSS HEX */
+:root {
+
+--stark-white-200: #e9dbc1;
+--pearl-bush-100: #eae3d9;
+--zinnwaldite-50: #fbf7f5;
+--zinnwaldite-300: #debfb2;
+--husk-300: #c4b980;
+--husk-400: #ae9c54;
+--husk-500: #a38f4f;
+--husk-600: #8c7442;
+--hampton-200: #e9deb0;
+--hampton-300: #d8c171;
+--hampton-400: #ceac51;
+--mondo-900: #4a392e;
+--mondo-950: #2e211a;
+
+font-family: "Inter";
+
+}
+
+* {
+    margin: 0;
+}
+
+/* Mobile view styling in columns*/
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--stark-white-200);
+    color:#4a392e;
+    justify-content: center;    
+    align-items: center;    
+}
+ /*Styling header and nav bar*/
+header {
+    background-color: var(--stark-white-200);
+    height: 10dvh;
+    width: 100%;   
+    display: flex;
+    text-align: center;
+    justify-content: space-between;   
+    align-items: center;
+}
+ /*Max-width and max height set to container size for responsive design*/
+.logo > img {
+   max-width: 20dvh;
+   max-height: 20dvh;
+}
+
+nav {
+    margin-right: 0.5em;
+    
+}
+
+nav > a {
+    text-decoration: none;
+    color: #2e211a;
+    padding: 0.25em;
+    font-weight: 500;
+}
+
+nav > a:hover {
+    background-color: #debfb2;
+    border-radius: 0.5em;
+
+}
+
+
+
+main {
+    margin-top: 0;
+    min-height: 86dvh;
+    width: 100%;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+ 
+}
+
+main > * {
+    margin: 0.5em;
+}
+
+.container {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    margin-top: -20dvh;
+    padding-bottom: 0.5em;  
+    font-family: 'Cardo';
+    font-weight: 700;
+    font-size: xx-large;
+
+}
+
+h2 {
+    padding-bottom: 0.5em;
+    position: relative
+}
+
+.about-p {
+    display: ;
+}
+
+
+
+.profilepicture > img {
+    height:40dvh;
+    width: 40dvh;
+     border-radius: 1em;     
+    object-fit: cover;
+     justify-content: center     
+        
+}
+
+h3 {
+    padding-top: 1em;
+   padding-bottom: 1em; 
+    font-family: "Cardo"; 
+}
+
+.my-button {
+    background-color: #ae9c54;
+    box-shadow: #8c7442;
+    color: #e9deb0;
+    font-family: "Inter";
+    border-radius: 0.5em;
+    padding: 1dvh;
+}
+
+.my-button:hover {
+    background-color: #4a392e;  
+}
+  
+
+
+footer {
+    height: 4dvh;
+    width: 100%;    
+    background-color: #debfb2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+}
+
+/* Desktop view styling. Body change to row*/
+
+@media screen and (min-width: 600px) 
+    
