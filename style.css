@@ -80,7 +80,7 @@ nav > a:hover {
 
 
 main {
-    margin-top: 0;
+    margin-top: 10dvh;
     min-height: 86dvh;
     width: 100%;
     display: flex;  
@@ -92,21 +92,20 @@ main {
 .home-content h3 {
     font-size: xx-large;
     font-weight: 700;
+    margin-top: 3dvh;
 
 }
 
 .home-content h1 {
-    font-size: xxx-large;
+    font-size: larger;
     font-weight: 700;
    
 }
 
-
-
 .profilepicture > img {
     height:40dvh;
     width: 40dvh;
-     border-radius: 2em;     
+     border-radius: 1em;     
     object-fit: cover;
      justify-content: center         
 }
@@ -135,6 +134,9 @@ main {
 footer {
     height: 4dvh;
     width: 100%;    
+    position: fixed;
+    left: 0;
+    bottom: 0;
     background-color: var(--zinnwaldite-300);
     display: flex;
     justify-content: center;
