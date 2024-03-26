@@ -41,7 +41,7 @@ body {
     align-items: center;    
 }
  /*Styling header and nav bar*/
-header {
+.header {
     background-color: var(--stark-white-200);
     height: 10dvh;
     width: 100%;   
@@ -52,11 +52,11 @@ header {
 
 }
  /*Max-width and max height set to container size for responsive design*/
-.logo > img {
+/* .logo > img {
    max-width: 20dvh;
    max-height: 20dvh;
-   margin: 0 auto;
-}
+   margin: 0 auto; */
+/* } */
 
 nav {
     margin-right: 0.5em;    
@@ -132,7 +132,10 @@ nav > a:hover {
     box-shadow: none;
 }
   
+.about h1 {
+    font-size: x-large
 
+}
 
 footer {
     height: 4dvh;
