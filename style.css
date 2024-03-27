@@ -177,12 +177,50 @@ footer {
     
 }
 
+.about {
+    margin:-8dvh;
+    min-height: 86dvh;
+    width: 100%;
+    padding: 2rem 0;
+    margin-left: 2dvw;
+    margin-right: 2dvw;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
 
 
+.about-me {
+    font-size: x-large;
+    align-self: center;
+    margin-bottom: 2em;
+  
+}
 
-.about h1 {
-    font-size: x-large
+.about-p{
+    display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   /* justify-content: flex-start;
+   align-items: center;  */
+   gap: 0.3em;
+   font-weight: 500;  
 
+}
+
+.about-picture {
+
+    /* align-self: center; */
+    height:20dvh;
+    /* width: 20dvw; */
+    margin-top: 2em;
+     border-radius: 3em; 
+     display: flex;    
+     justify-content: center;
+     align-items: center;
+           
 }
 
 /* Mobile view */
@@ -202,6 +240,13 @@ footer {
         max-width: 75%;
         height: auto;
         justify-content: center;
+    }
+
+    .about {
+        margin: auto;
+    }
+    .about-p {
+        max-width: 80%;
     }
 }
     
