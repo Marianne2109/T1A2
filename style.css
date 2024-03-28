@@ -276,8 +276,7 @@ footer {
 }
 
 .blog-card {
-    min-width: 20dvw;
-    min-height: 30dvh;
+   max-width: 30dvw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -293,6 +292,52 @@ footer {
 .blog-cardDisplay {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact {
+    margin:-3dvh;
+    min-height: 86dvh;
+    width: 100%;
+    padding: 2rem 0;
+    margin-left: 2dvw;
+    margin-right: 2dvw;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.contact-header {
+    font-size: x-large;
+    align-self: center;
+}
+.contactDisplay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact-img {
+    width: 25dvw;
+    filter: opacity(70%);
+    border-top-right-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+}
+
+.email {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
@@ -343,6 +388,14 @@ footer {
 .blog-cardDisplay {
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+.contactDisplay {
+    flex-direction: row;
+}
+
+.contact-header {
+    align-self: flex-start ;
 }
     
 } 
