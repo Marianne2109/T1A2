@@ -406,6 +406,12 @@ footer {
     flex-direction: row;
 }
 
+.blog-header {
+    align-self: flex-start;
+    margin-left: 10em;
+    font-size: x-large;
+}
+
 .blog-cardDisplay {
     flex-direction: row;
     flex-wrap: wrap;
