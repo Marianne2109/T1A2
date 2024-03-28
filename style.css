@@ -292,6 +292,16 @@ footer {
     /* transition: 0.7s ease-in-out */
 }
 
+.blog-card > img {
+    max-width: 20rem;
+    border-radius: 2em; 
+    margin: 0.5em 0 2em 0;
+}
+
+.blog-card > p {
+    margin: 1em 0 1em 0;
+}
+
 .blog-cardDisplay {
     display: flex;
     flex-direction: column;
