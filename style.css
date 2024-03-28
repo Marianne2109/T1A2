@@ -200,14 +200,16 @@ footer {
   
 }
 
-.about-p > section{
-    display: flex;
+.about-p > section {
+   display: flex;
    flex-direction: column;
+   justify-content: center;
    flex-wrap: wrap;
    /* justify-content: flex-start;
    align-items: center;  */
    gap: 0.3em;
    font-weight: 500;  
+ 
 
 }
 
@@ -382,6 +384,7 @@ footer {
 @media screen and (min-width: 600px) {
 .navbar {
     font-size: large;
+    /* justify-content: flex-end; */
 }
 
 .about-me {
@@ -402,6 +405,11 @@ footer {
     align-self: flex-start;
     font-size: x-large;
     margin-bottom: 1em;
+}
+
+.about-p {
+    max-width: 80%;
+    justify-content: center;
 }
 
     
