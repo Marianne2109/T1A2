@@ -259,18 +259,56 @@ footer {
  
 }
 
-.blog {
+.skillsprojects {
     /* margin:-3dvh; */
     min-height: 86dvh;
     width: 100%;
-    /* padding: 2rem 0; */
+    padding: 2rem 0;
     margin-left: 2dvw;
     margin-right: 2dvw;
     display: flex;  
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
+}
+
+.skillsprojects > h3 {
+    margin-bottom: 1em;
+    margin-top: 0;
+}
+
+.skills-cards {
+    min-width: 25dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    border-color: var(--brandy-300);
+    border-radius: 2em;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.skills-cardsDisplay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.blog {
+   
+    min-height: 86dvh;
+    width: 100%;
+    margin-left: 2dvw;
+    margin-right: 2dvw;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+   
 }
 
 .blog-header {
@@ -455,6 +493,7 @@ footer {
 .about-cardsDisplay {
     flex-direction: row;
 }
+
 
 .blog-header {
     align-self: flex-start;
