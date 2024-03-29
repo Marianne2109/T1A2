@@ -166,8 +166,8 @@ footer {
     
 }
 
-.about {
-    margin:-3dvh;
+.about > main {
+    /* margin:-3dvh; */
     min-height: 86dvh;
     width: 100%;
     padding: 2rem 0;
@@ -181,11 +181,16 @@ footer {
 }
 
 
-.about-me {
+.about > h1 {
     font-size: x-large;
-    align-self: center;
     margin-bottom: 2em;
   
+}
+
+.about-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .about-p > section {
@@ -193,8 +198,6 @@ footer {
    flex-direction: column;
    justify-content: center;
    flex-wrap: wrap;
-   /* justify-content: flex-start;
-   align-items: center;  */
    gap: 0.3em;
    font-weight: 500;  
 
@@ -214,6 +217,7 @@ footer {
 
 .about-cards {
     max-width: 25dvw;
+  
     display: flex;
     /* flex-direction: column; */
     justify-content: center;
