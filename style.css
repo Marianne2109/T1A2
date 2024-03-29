@@ -113,13 +113,12 @@ body {
     flex-wrap: wrap;
    
 }
+
 .home-text  {
     margin-top: 1.5em;
     margin-left: 1em;
     font-family: "Poppins";
     font-size: 2rem;
-  
-
 }
 
 
@@ -167,12 +166,12 @@ footer {
 }
 
 .about > main {
-    /* margin:-3dvh; */
+    /* margin-top: -5dvh; */
     min-height: 86dvh;
     width: 100%;
     padding: 2rem 0;
-    margin-left: 2dvw;
-    margin-right: 2dvw;
+    /* margin-left: 2dvw;
+    margin-right: 2dvw; */
     display: flex;  
     flex-direction: column;
     justify-content: center;
@@ -180,10 +179,12 @@ footer {
     flex-wrap: wrap;
 }
 
-
+.about > * {
+    margin: 3em;
+}
 .about > h1 {
     font-size: x-large;
-    margin-bottom: 2em;
+    /* margin-bottom: 2em; */
   
 }
 
@@ -200,26 +201,26 @@ footer {
    flex-wrap: wrap;
    gap: 0.3em;
    font-weight: 500;  
+   margin-top: 5rem;
 
 }
 
 .about-picture {
-    height: 30dvh;
+    height: 15rem;
     /* width: 20dvw; */
     margin-top: 2em;
     border-top-right-radius: 1.5em;
     border-bottom-left-radius: 1.5em;
-     display: flex;    
-     justify-content: center;
-     align-items: center;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
            
 }
 
 .about-cards {
-    max-width: 25dvw;
-  
+    max-width: 40dvw;
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     border: solid;
@@ -494,10 +495,10 @@ footer {
     /* justify-content: flex-end; */
 }
 
-.about-me {
-    align-self: flex-start;
+/* .about-me {
+    align-self: flex-start; */
     
-}
+
 
 .about-cardsDisplay {
     flex-direction: row;
@@ -532,7 +533,6 @@ footer {
 .about-p {
     max-width: 80%;
     justify-content: center;
-}
+}    
 
-    
-} 
+}
