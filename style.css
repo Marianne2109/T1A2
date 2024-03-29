@@ -1,7 +1,7 @@
 
 
 /*Import google fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap&family=Cardo:ital,wght@0,400;0,700;1,400&family=Inter:slnt,wght@-10..0,100..900&display=swap&family=Arapey:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap&Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap&family=Inter:slnt,wght@-10..0,100..900&display=swap&family=Arapey:ital@0;1&display=swap');
 
 
 /* CSS HEX */
@@ -77,8 +77,8 @@ body {
 
 }
 
-
-/* .navbar:active {
+/* 
+.navbar:active {
     background-color: var(--mondo-900);
     color: var(--pearl-bush-100);
     border-radius: 0.5em;
@@ -86,53 +86,42 @@ body {
 
 
 .home {
-    margin-top: 10dvh;
-    min-height: 86dvh;
+    /* margin-top: 10dvh; */
+    max-height: 86dvh;
     width: 100%;
     padding: 2rem 0;
     display: flex;  
     flex-direction: column;
     justify-content: center;
-    align-content: center;
+   align-items: center;
     flex-wrap: wrap;
 }
 
 
 .profilepicture {
     height:30dvh;
-    /* width: 20dvw; */
-    margin-top: -18dvh;
-     border-radius: 1em; 
-     display: flex;    
-     justify-content: center;
-     align-items: center;       
+    border-radius: 1em;   
+    margin-top: 2em;
+
 }
 
 .home-content{
     display: flex;  
     flex-direction: column;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     flex-wrap: wrap;
-}
-.home-content h3 {
    
-    font-weight: 600;
+}
+.home-text  {
+    margin-top: 1.5em;
+    margin-left: 1em;
+    font-family: "Poppins";
     font-size: 2rem;
-    /* justify-content: center; */
-    /* font-style: italic; */
- 
-    margin: 1.5rem 0 0 1rem;
+  
 
 }
 
-.home-content h2 {
-    /* font-family: "Arapey"; */
-    /* font-size: 2rem; */
-    font-weight: 600;
-    justify-content: center;
-   
-}
 
 span {
     font-style: italic;
@@ -466,9 +455,9 @@ footer {
     /* .home-content h3, 
          margin-left: 2rem;  */
      
-    .home-content h2 {
+    /* .home-content h2 {
         margin-left: 1.5rem;
-    }
+    } */
 
     .profilepicture {
         max-width: 75%;
