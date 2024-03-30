@@ -422,7 +422,7 @@ min-width: 1rem;
 
 .contact {
     margin: -5dvh;
-    min-height: 86dvh;
+    max-height: 86dvh;
     width: 100%;
     padding: 2rem 0;
     margin-left: 2dvw;
@@ -456,7 +456,7 @@ min-width: 1rem;
 } */
 
 .contact-img {
-    max-width: 75%;
+    width: 65%;
     filter: opacity(70%);
     border-style: ridge;
     margin: 1rem;
