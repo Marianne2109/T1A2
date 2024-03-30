@@ -435,7 +435,7 @@ min-width: 1rem;
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    /* flex-wrap: wrap; */
+    
 }
 
 .contact-header {
@@ -452,13 +452,6 @@ min-width: 1rem;
  
 }
 
-/* .email:hover {
-    flex-grow: calc(1 0 3);
-    letter-spacing: 1em;
-    font-size: large; 
-   
-} */
-
 .contact-img {
     max-width: 65%;
     filter: opacity(70%);
@@ -472,13 +465,8 @@ min-width: 1rem;
 @media screen and (min-width: 600px) {
 .navbar {
     font-size: x-large;
-    /* justify-content: flex-end; */
-}
-
-/* .about-me {
-    align-self: flex-start; */
     
-
+}
 .about-header {
     align-self: center;
     font-size: x-large;
@@ -533,7 +521,9 @@ min-width: 1rem;
     align-items: center;
     
 }
-
+.blogsolo {
+    width: 30%;
+}
 .contact-header{
     align-self: center;
     font-size: x-large;
