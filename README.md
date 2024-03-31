@@ -55,25 +55,40 @@ Marianne
 
 ### Mobile view:
    * **Home page**
+
    ![Mobile view-home page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/home-mobile.png)
+
+
 
    * **About page**
    ![Mobile view-about page.]()
 
    * **Skills page**
+     
    ![Mobile view-skills page.]()
 
    * **Projects individual page**
+     
    ![Mobile view-projects page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/project-mobile.png)
+
+
 
    * **Blog page**
    ![Mobile view-blog page.]()
 
    * **Blog individual page**
-   ![Mobile view-blog individual page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog.individual-mobile.png)
+     
+  
+  ![Mobile view-blog individual page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog.individual-mobile.png)
+
+
+  
 
    * **Contact page**
+     
    ![Mobile view-contact page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/contact-mobile.png)
+
+   
 
 
 ### Desktop view:
