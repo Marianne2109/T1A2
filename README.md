@@ -41,9 +41,10 @@ Similar to sitemap, I initially sketch things on paper. These wireframes are low
 The initial sketch was very similar to my end result, as I aimed for a simple layout that was achievable and responsive. However, along the way I made changes in areas where improvement was needed for flow and accessibility, 
 
 ### Mobile wireframes:
-
+![Wireframes-mobile view, added in Markdown.]()
 
 ### Desktop wireframes:
+![Wireframes-desktop view, added in Markdown.]()
   
 ## The Outcome 
 Overall I am quite happy with the end result. I would have not been able to create a website from scratch just a couple of weeks ago. I intend to keep this site up to date along the way. 
@@ -102,6 +103,46 @@ Marianne
    
 
 ### Desktop view:
+   * **Home page**
+
+   ![Mobile view-home page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/home-desktop.png)
+
+   
+   * **About page**
+
+   ![Mobile view-about page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/about1-desktop.png)
+   
+   ![Mobile view-about page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/about2-desktop.png)
+
+
+   * **Skills page**
+     
+   ![Mobile view-skills page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/skills1-desktop.png)
+
+   
+   ![Mobile view-skills page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/skills2-desktop.png)
+
+
+   * **Projects individual page**
+          
+   ![Mobile view-projects page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/project-desktop.png)
+
+   
+   * **Blog page**
+     
+   ![Mobile view-blog page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/blog1-desktop.png)
+   
+   ![Mobile view-blog page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/blog2-desktop.png)
+
+
+   * **Blog individual page**
+     
+   ![Mobile view-blog individual page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/blog.individual-desktop.png)
+
+
+   * **Contact page**
+     
+   ![Mobile view-contact page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Desktop%20view/contact-desktop.png)
 
 
 
