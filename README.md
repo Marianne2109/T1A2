@@ -7,7 +7,7 @@ The expected audience of this portfolio would be potential employers or recruite
 
 - Published Portfolio - https://marianneveyln-portfolio.netlify.app/
 - GitHub Repository -
-- Video presentation -
+- Video presentation - https://www.youtube.com/watch?v=9AjCUiPG7Aw
 
 ## Tech Stack
 The tools I used to create this portafolio for planning, developing and deploying include the following (in no particular order):
