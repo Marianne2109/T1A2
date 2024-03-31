@@ -22,14 +22,17 @@ The tools I used to create this portafolio for planning, developing and deployin
 
 ## Functionality & Features
 The functionalities and features of this portfolio are:
-- Design: I developed this website using a mobile fisrt approach. With a minimalist design and simple layout and a earthy/neutral colour palette to reflect a sense of calmness and simplicity. I used semantic elements throughout and alt text description for images considering screenreaders. These carachteristics make the website itself accessible.
-- Structure: The webiste is structured to have multiples pages linked to the navigation bar in the header. The pages include:
-        - home page - this is the landing page and it includes a button "read more" linking to the about page
-        - about - to provide some more information about myself in relation to my background, education and hobbies
-        - skills - content combining skills and portfolio, with placeholders for future content
-        - blog - a space to project some of my topics of interest and connect with the target audience 
-        - contact - indicating the different avenues to connect with me
-- Features: To showcase the intended content while keeping in mind an engaging design that inline with simplicity, I used cards for blogs and skills. Button linking pages within the website and simple colour animations to highlight certain elements and content. 
+* Design: I developed this website using a mobile fisrt approach. With a minimalist design and simple layout and a earthy/neutral colour palette to reflect a sense of calmness and simplicity. I used semantic elements throughout and alt text description for images considering screenreaders. These carachteristics make the website itself accessible.
+
+* Structure: The webiste is structured to have multiples pages linked to the navigation bar in the header. The pages include:
+  * home page - this is the landing page and it includes a button "read more" linking to the about page
+  * about - to provide some more information about myself in relation to my background, education and hobbies
+  * skills - content combining skills and portfolio, with placeholders for future content
+  * blog - a space to project some of my topics of interest and connect with the target audience 
+  * contact - indicating the different avenues to connect with me
+* Features: To showcase the intended content while keeping in mind an engaging design that inline with simplicity, I used cards for blogs and skills. Button linking pages within the website and simple colour animations to highlight certain elements and content. 
 
 ## Sitemap
+I initialy drew a sitemap with pen and paper. The structure was the same from the start however I did return to my initial design and did some changes and additions such as the buttons to improve the flow between pages.
 
+![Portfolio sitemap, added in Markdown.](docs/Sitemap and Wireframes/T1A2_Portfolio sitemap.png)
