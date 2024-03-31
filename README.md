@@ -35,4 +35,4 @@ The functionalities and features of this portfolio are:
 ## Sitemap
 I initialy drew a sitemap with pen and paper. The structure was the same from the start however I did return to my initial design and did some changes and additions such as the buttons to improve the flow between pages.
 
-![Portfolio sitemap, added in Markdown.](docs/Sitemap and Wireframes/T1A2_Portfolio sitemap.png)
+![Portfolio sitemap, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/T1A2_Portfolio%20sitemap.png)
