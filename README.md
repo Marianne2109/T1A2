@@ -1,12 +1,12 @@
-# T1A2
+# T1A2 Portfolio Assignment
 
 Portfolio Website Assignment
 
 # Description of Portfolio Website/Purpose
 # Links
-  Portfolio Website URL:
-  GitHub repo link:
-  Video presentation:
+-Portfolio Website URL: https://marianneveyln-portfolio.netlify.app/
+-GitHub repo link:
+-Video presentation:
 # Target Audience
 # Functionality/Features
 # Teck stack
