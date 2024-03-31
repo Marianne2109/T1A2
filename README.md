@@ -55,9 +55,9 @@ The initial sketch was very similar to my end result, as I aimed for a simple la
 
 ![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes1.png)
 
-![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes2.png)
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/mobile-wireframes2.png)
 
-![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes3.png)
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/mobile-wireframes3.png)
 
 ![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes4.png)
 
