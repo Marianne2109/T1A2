@@ -1,6 +1,6 @@
 # Portfolio Assignment T1A2
 ## Introduction
-The purpose of this website is to create a portfolio to demostrate the skills I will aqcuare in the process of becoming a web developer. It also intends to give an idea of my persona, background and interests.
+The purpose of this website is to create a portfolio to demonstrate the skills I will gain in the process of becoming a web developer. It also intends to give an idea of my persona, background and interests.
 The expected audience of this portfolio would be potential employers or recruiters that are looking to fill web development/IT roles. 
 
 ## Links
