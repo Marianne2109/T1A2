@@ -33,6 +33,7 @@ The functionalities and features of this portfolio are:
 * Features: To showcase the intended content while keeping in mind an engaging design that inline with simplicity, I used cards for blogs and skills. Button linking pages within the website and simple colour animations to highlight certain elements and content. 
 
 ## Sitemap
-I initialy drew a sitemap with pen and paper. The structure was the same from the start however I did return to my initial design and did some changes and additions such as the buttons to improve the flow between pages.
+I initialy drew a sitemap with pen and paper. The structure was the same from the start however I did return to my initial design and did some changes and additions such as the buttons to improve the flow between pages and combining skills and projects under the skills page. 
 
 ![Portfolio sitemap, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/T1A2_Portfolio%20sitemap.png)
+
