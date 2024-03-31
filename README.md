@@ -41,10 +41,26 @@ Similar to sitemap, I initially sketch things on paper. These wireframes are low
 The initial sketch was very similar to my end result, as I aimed for a simple layout that was achievable and responsive. However, along the way I made changes in areas where improvement was needed for flow and accessibility, 
 
 ### Mobile wireframes:
-![Wireframes-mobile view, added in Markdown.]()
+![Wireframes-mobile view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Mobile%20wireframes/T1A2_Wireframes%20Mobile.png)
+
+![Wireframes-mobile view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Mobile%20wireframes/mobile-wireframes1.png)
+
+![Wireframes-mobile view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Mobile%20wireframes/mobile-wireframes2.png)
+
+![Wireframes-mobile view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Mobile%20wireframes/mobile-wireframes3.png)
+
 
 ### Desktop wireframes:
-![Wireframes-desktop view, added in Markdown.]()
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/T1A2_Wireframes%20Desktop.png)
+
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes1.png)
+
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes2.png)
+
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes3.png)
+
+![Wireframes-desktop view, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/Desktop%20wireframes/desktop-wireframes4.png)
+
   
 ## The Outcome 
 Overall I am quite happy with the end result. I would have not been able to create a website from scratch just a couple of weeks ago. I intend to keep this site up to date along the way. 
