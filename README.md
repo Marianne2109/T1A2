@@ -37,3 +37,47 @@ I initialy drew a sitemap with pen and paper. The structure was the same from th
 
 ![Portfolio sitemap, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/T1A2_Portfolio%20sitemap.png)
 
+
+## Wireframes
+Similar to sitemap, I initially sketch things on paper. These wireframes are low fidelity, they show the general structure and overall placement of elements.
+The initial sketch was very similar to my end result, as I aimed for a simple layout that was achievable and responsive. However, along the way I made changes in areas where improvement was needed for flow and accessibility, 
+
+### Mobile wireframes:
+
+
+### Desktop wireframes:
+  
+## The Outcome 
+Overall I am quite happy with the end result. I would have not been able to create a website from scratch just a couple of weeks ago. I intend to keep this site up to date along the way. 
+Next are some screenshots of each page.
+Thank you for taking the time to review my work.
+Marianne
+
+### Mobile view:
+   * **Home page**
+   ![Mobile view-home page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/home-mobile.png)
+
+   * **About page**
+   ![Mobile view-about page.]()
+
+   * **Skills page**
+   ![Mobile view-skills page.]()
+
+   * **Projects individual page**
+   ![Mobile view-projects page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/project-mobile.png)
+
+   * **Blog page**
+   ![Mobile view-blog page.]()
+
+   * **Blog individual page**
+   ![Mobile view-blog individual page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog.individual-mobile.png)
+
+   * **Contact page**
+   ![Mobile view-contact page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/contact-mobile.png)
+
+
+### Desktop view:
+
+
+
+
