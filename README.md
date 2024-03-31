@@ -36,8 +36,6 @@ The functionalities and features of this portfolio are:
 I initialy drew a sitemap with pen and paper. The structure was the same from the start however I did return to my initial design and did some changes and additions such as the buttons to improve the flow between pages and combining skills and projects under the skills page. 
 
 ![Portfolio sitemap, added in Markdown.](https://github.com/Marianne2109/T1A2/blob/main/docs/Sitemap%20and%20Wireframes/T1A2_Portfolio%20sitemap.png)
-
-
 ## Wireframes
 Similar to sitemap, I initially sketch things on paper. These wireframes are low fidelity, they show the general structure and overall placement of elements.
 The initial sketch was very similar to my end result, as I aimed for a simple layout that was achievable and responsive. However, along the way I made changes in areas where improvement was needed for flow and accessibility, 
@@ -62,13 +60,18 @@ Marianne
    * **About page**
 
    ![Mobile view-about page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/about1-mobile.png)
+   
    ![Mobile view-about page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/about2-mobile.png)
+   
    ![Mobile view-about page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/about3-mobile.png)
 
 
    * **Skills page**
      
-   ![Mobile view-skills page.]()
+   ![Mobile view-skills page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/skills1-mobile.png)
+
+   
+   ![Mobile view-skills page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/skills2-mobile.png)
 
 
    * **Projects individual page**
@@ -79,8 +82,11 @@ Marianne
    * **Blog page**
      
    ![Mobile view-blog page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog1-mobile.png)
+   
    ![Mobile view-blog page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog2-mobile.png)
+   
    ![Mobile view-blog page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog3-mobile.png)
+   
    ![Mobile view-blog page.](https://github.com/Marianne2109/T1A2/blob/main/docs/Screenshots/Mobile%20view/blog4-mobile.png)
 
 
